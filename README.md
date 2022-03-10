@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**dianasabi/dianasabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 My name is Diana Sabina Albán Peñafiel. I have a master's degree in Electrical Engineering, an Electronic Engineering in Instrumentation and I work with Software Development as a Back-end developer since 2020.  👩🏻‍💻
 
 I love learning new tools, programming languages and solving problems. Always open to new challenges and willing to face changes with a positive attitude, which is the life motto.
