@@ -7,7 +7,7 @@ I love learning new tools, programming languages and solving problems. Always op
 ####  🤔 "The more I know, the more I understand that I know nothing and the more I want to learn." 😊
 
  - 📍 From Equador 🇪🇨 living in Brazil 🇧🇷
- - 👩🏻‍💻 I’m currently working as Software Engineer at [Loggi](https://www.loggi.com) 🐇
+ - 👩🏻‍💻 I’m currently working as Software Engineer 🐇
  - 🌱 I’m currently learning Front-end
  - 📫 Reach me out 👇
  
